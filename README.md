@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there, Adventurer! 👋
+- - -
 
-<!--
-**devdenisalex/devdenisalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for dropping by, I'm a 14yr old web-developer/designer & an aspiring Full-Stack Engineer.
+<br>
+<br>
+- ⌨️ Languages I code in - `html`, `scss`, `js` 
+- 🚧 What's WIP - `python`, `svelte` 
+- 🔜 What I'm willing to learn - `react native`, `django`, `svelte kit` 
+<br>
+Cheers!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alt Text](https://tenor.com/view/peace-out-gif-22295199.gif)
