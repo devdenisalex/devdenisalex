@@ -14,4 +14,3 @@ For business enquiries / commissions, denisalex040@gmail.com
 <br>
 Cheers!
 
-![Alt Text](https://tenor.com/view/peace-out-gif-22295199.gif)
