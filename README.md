@@ -1,7 +1,7 @@
 ### Hey there, Adventurer! 👋
 - - -
 
-![Alt Text](https://raw.githubusercontent.com/devdenisalex/portfolio/main/image_2024-02-21_220315100.png)
+![Alt Text](https://raw.githubusercontent.com/devdenisalex/devdenisalex/main/banner.png)
 <br>
 Thanks for dropping by, I'm a 14yr old web-developer/designer & an aspiring Full-Stack Engineer.
 <br>
