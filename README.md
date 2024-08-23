@@ -9,8 +9,8 @@ For business enquiries / commissions, denisalex040@gmail.com
 <br>
 <br>
 - ⌨️ Languages I code in - `html`, `scss`, `js` 
-- 🚧 What's WIP - `python`, `svelte` 
-- 🔜 What I'm willing to learn - `react native`, `django`, `svelte kit` 
+- 🚧 What's WIP - `ruby on rails`
+- 🔜 What I'm willing to learn - `react`, `django`, `svelte kit` 
 <br>
 Cheers!
 
